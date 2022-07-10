@@ -1,2 +1,2 @@
 let tyu = prompt('Твоё имя?','');
-alert(`твоё имя ${tyu}`);
+alert(`твоё имя ${tyu}`)
